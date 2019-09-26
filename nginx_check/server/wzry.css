@@ -1,0 +1,15 @@
+.form01{
+    background-color:#F0F8FF; width:800px ; height:500px; text-align: center; margin:0 auto;
+}
+#menu {
+    background-image:url(./source/back02.jpg); background-size: cover; height:500px;width:400px;float:left;
+}
+#video01 {
+    width:400px; height:250px;
+}
+.img01 {
+    width:30px; height:30px; vertical-align:middle;
+}
+.text01 {
+    width:200px ; height:20px;
+}
